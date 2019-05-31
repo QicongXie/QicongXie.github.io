@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[测试title]]></title>
+    <url>%2F2019%2F05%2F30%2F%E6%B5%8B%E8%AF%95title%2F</url>
+    <content type="text"><![CDATA[\[\begin{equation} E=mc^2 \end{equation} \] \[\begin{equation} aaa \end{equation}\] \(\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t\) \[\begin{bmatrix} {a_{11}}&amp;{a_{12}}&amp;{\cdots}&amp;{a_{1n}}\\ {a_{21}}&amp;{a_{22}}&amp;{\cdots}&amp;{a_{2n}}\\ {\vdots}&amp;{\vdots}&amp;{\ddots}&amp;{\vdots}\\ {a_{m1}}&amp;{a_{m2}}&amp;{\cdots}&amp;{a_{mn}}\\ \end{bmatrix}\] \[\begin{align*} f(x) &amp;= (x+a)(x+b) \\ &amp;= x^2 + (a+b)x + ab \end{align*}\] # | Tables | Are | Cool | | ------------- |:-------------:| -----:| | col 3 is | right-aligned | $1600 | | col 2 is | centered | $12 | \(x^{(i)}\), \(\parallel\partial f_{\tiny极大值}\) \(\emptyset\) \(() \big(\big) \Big(\Big) \bigg(\bigg) \Bigg(\Bigg) \big(\Big) \bigg(\Bigg)\) \[ \begin{array}{ccc} x_{_{11}} &amp; x_{_{12}} &amp; \dots &amp; x_{_{1n}} \\ x_{_{21}} &amp; x_{_{22}} &amp; \dots &amp; x_{_{2n}} \\ \vdots &amp; \vdots &amp; \ddots &amp; \vdots \\ x_{_{m1}} &amp; x_{_{m2}} &amp; \dots &amp; x_{_{mn}} \\ \end{array} \]]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F05%2F30%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Start Create a new post 1$ hexo new "My New Post" More \(x^2=e_{m}\)info: Writing \[E_{b}\] ### Run server 1$ hexo server More info: Server Generate static files 1$ hexo generate More info: Generating Deploy to remote sites 1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>分类名1</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签3</tag>
+      </tags>
+  </entry>
+</search>
